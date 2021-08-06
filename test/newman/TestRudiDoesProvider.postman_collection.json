@@ -1,0 +1,176 @@
+{
+	"variables": [],
+	"info": {
+		"name": "Test RudiDoes Provider",
+		"_postman_id": "8605efd5-db09-9c82-203b-31849fe31f93",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get a Token (Local)",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"var data = JSON.parse(responseBody);",
+							"",
+							"postman.setEnvironmentVariable(\"access_token\", data.access_token);",
+							"postman.setEnvironmentVariable(\"refresh_token\", data.refresh_token);",
+							"",
+							"tests[\"Response has token\"] = responseBody.has(\"access_token\");",
+							"tests[\"Response has token type\"] = responseBody.has(\"token_type\");",
+							"tests[\"Response has expiry date\"] = responseBody.has(\"expires_in\");",
+							"tests[\"Response has refresh token\"] = responseBody.has(\"refresh_token\");",
+							"tests[\"Response has client id\"] = responseBody.has(\"as:client_id\");",
+							"tests[\"Response has userName\"] = responseBody.has(\"userName\");",
+							"tests[\"Response has token issued date\"] = responseBody.has(\".issued\");",
+							"tests[\"Response has token expiry date\"] = responseBody.has(\".expires\");",
+							"",
+							"tests[\"Response time is less than 200ms\"] = responseTime < 200;",
+							"",
+							"tests[\"Status code is 200\"] = responseCode.code === 200;"
+						]
+					}
+				}
+			],
+			"request": {
+				"url": "{{authUrl}}/token",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "username",
+							"value": "tim@cluedin.io",
+							"type": "text",
+							"enabled": true
+						},
+						{
+							"key": "password",
+							"value": "jerrong",
+							"type": "text",
+							"enabled": true
+						},
+						{
+							"key": "client_id",
+							"value": "CluedIn",
+							"type": "text",
+							"enabled": true
+						},
+						{
+							"key": "grant_type",
+							"value": "password",
+							"type": "text",
+							"enabled": true
+						}
+					]
+				},
+				"description": "Gets an authentication Token to use for authentication in the rest of the application"
+			},
+			"response": []
+		},
+		{
+			"name": "Add RudiDoes",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"tests[\"Body contains Id\"] = responseBody.has(\"true\");",
+							"",
+							"",
+							"tests[\"Response is not empty\"] = responseBody !== \"\";",
+							"tests[\"Response is not an empty array\"] = responseBody !== \"[]\";",
+							"",
+							"tests[\"Status code is 200\"] = responseCode.code === 200;",
+							"tests[\"Response time is less than 200ms\"] = responseTime < 200;",
+							"var data = JSON.parse(responseBody);",
+							"",
+							"postman.setEnvironmentVariable(\"rudidoesproviderid\", data.Id);"
+						]
+					}
+				}
+			],
+			"request": {
+				"url": "{{url}}/api/organization/Providers?providerId=aa68a021-4db9-4ab2-83b2-cf40437f1f52&configuration={    }",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer {{access_token}}",
+						"description": ""
+					}
+				],
+				"body": {},
+				"description": "Add RudiDoes provider for the current organization"
+			},
+			"response": []
+		},
+		{
+			"name": "Enable RudiDoes Provider",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"tests[\"Body contains Id\"] = responseBody.has(\"true\");",
+							"",
+							"",
+							"tests[\"Response is not empty\"] = responseBody !== \"\";",
+							"tests[\"Response is not an empty array\"] = responseBody !== \"[]\";",
+							"",
+							"tests[\"Status code is 200\"] = responseCode.code === 200;",
+							"tests[\"Response time is less than 200ms\"] = responseTime < 200;"
+						]
+					}
+				}
+			],
+			"request": {
+				"url": "{{url}}/api/organization/Providers/enable?organizationProviderId={{rudidoesproviderid}}",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/x-www-form-urlencoded",
+						"description": ""
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer {{access_token}}",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "configuration",
+							"value": "{       }",
+							"type": "text",
+							"enabled": true
+						}
+					]
+				},
+				"description": "Enable RudiDoes provider for the current organization"
+			},
+			"response": []
+		}
+	]
+}

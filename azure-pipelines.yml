@@ -1,0 +1,50 @@
+name: $(Date:yyyyMMdd)$(Rev:.r)
+
+parameters:
+  - name: configuration
+    displayName: The build configuration for dotnet
+    type: string
+    default: Release
+
+# Trigger builds for the following branches only
+trigger:
+  - master
+  - release/*
+  - support/*
+
+resources:
+  repositories:
+    - repository: cluedin
+      type: github
+      name: CluedIn-Io/Azure
+      endpoint: github # You will need to configure a service connection in azure devops
+
+variables:
+  - name: version
+    value: 1.0.$(Build.BuildNumber) # Logic for calculating build number can vary - set as required
+
+jobs:
+  - template: pipelines/CluedIn.Crawler.yml@cluedin
+    parameters:
+      configuration: ${{ parameters.configuration }}
+      version: $(version)
+
+  # The following receives pushes nuget packages to an internal
+  # artifacts feed, change as required
+  # - job: nuget_push
+  #   displayName: Push Nuget Packages
+  #   dependsOn: job_cluedin_build
+  #   condition: succeeded()
+  #   steps:
+  #     - checkout: none
+  #     - download: current
+  #       displayName: Download nuget artifacts
+  #       artifact: nuget
+
+  #     - task: DotNetCoreCLI@2
+  #       displayName: Push nuget packages
+  #       inputs:
+  #         command: 'push'
+  #         packagesToPush: '$(Pipeline.Workspace)/nuget/*.nupkg'
+  #         nuGetFeedType: 'internal'
+  #         publishVstsFeed: '<feed details>'

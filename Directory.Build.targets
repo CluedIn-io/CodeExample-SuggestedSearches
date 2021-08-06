@@ -1,0 +1,5 @@
+<Project>
+    <!-- Ensure the targets for Central package management are imported -->
+    <Import Project="Sdk.targets" Sdk="Microsoft.Build.CentralPackageVersions"/>
+
+</Project>

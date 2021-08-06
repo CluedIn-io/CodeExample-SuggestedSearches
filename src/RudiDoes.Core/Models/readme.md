@@ -1,0 +1,1 @@
+Add in here strongly type classes to capture the information you are retrieving and want to submit to CluedIn, e.g. [User](https://github.com/CluedIn-io/CluedIn.Crawling.HelloWorld/blob/master/src/HelloWorld.Core/Models/User.cs), Company, Task, etc.

@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\RudiDoes.Core\Crawling.RudiDoes.Core.csproj" />
+  </ItemGroup>
+</Project>

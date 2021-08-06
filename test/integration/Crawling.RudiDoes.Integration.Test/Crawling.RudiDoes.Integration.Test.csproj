@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\src\RudiDoes.Core\Crawling.RudiDoes.Core.csproj" />
+    <ProjectReference Include="..\..\..\src\RudiDoes.Crawling\Crawling.RudiDoes.csproj" />
+    <ProjectReference Include="..\..\..\src\RudiDoes.Infrastructure\Crawling.RudiDoes.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\..\src\RudiDoes.Provider\Provider.RudiDoes.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="CluedIn.CrawlerIntegrationTesting" />
+  </ItemGroup>
+  <!--
+    App.config needs to be copied under dll of _host_ process
+    i.e. the test runner itself
+    https://github.com/dotnet/runtime/issues/22720#issuecomment-563785907
+  -->
+  <!-- <Target Name="CopyCustomContent" AfterTargets="AfterBuild">
+    <Copy SourceFiles="app.config" DestinationFiles="$(OutDir)\testhost.dll.config" />
+  </Target> -->
+
+</Project>

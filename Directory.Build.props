@@ -1,0 +1,30 @@
+<Project>
+  <PropertyGroup Label="Compilation Metadata">
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Label="Msbuild Handling">
+    <!--
+      NU5105 : Semver 2 package version
+    -->
+    <NoWarn>$(NoWarn);NU5105</NoWarn>
+  </PropertyGroup>
+
+  <PropertyGroup Label="Assembly Metadata">
+    <AssemblyVersion>$([System.Text.RegularExpressions.Regex]::Match($(Version), '\d+\.\d+').Value)</AssemblyVersion>
+    <FileVersion>$([System.Text.RegularExpressions.Regex]::Match($(Version), '\d+\.\d+.\d+').Value)</FileVersion>
+    <Company>CluedIn</Company>
+    <Copyright>Copyright (c) 2020 $(Company). All rights reserved.</Copyright>
+    <Product>RudiDoes</Product>
+    <Description>$(MSBuildProjectName) library.</Description>
+    <AssemblyTitle>$(MSBuildProjectName)</AssemblyTitle>
+    <AssemblyName>$(Product).$(AssemblyTitle)</AssemblyName>
+    <RootNamespace>$(AssemblyName)</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup Label="Package Metadata">
+    <Title>$(RootNamespace)</Title>
+    <Authors>$(Company)</Authors>
+  </PropertyGroup>
+
+</Project>
