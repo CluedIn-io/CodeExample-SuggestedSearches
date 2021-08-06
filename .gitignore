@@ -266,3 +266,4 @@ __pycache__/
 
 # NDepend
 NDependOut/
+.DS_Store
