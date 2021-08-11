@@ -8,6 +8,7 @@ using CluedIn.Crawling.RudiDoes.Infrastructure.Installers;
 // 
 using ComponentHost;
 using CluedIn.Core.Server;
+using CluedIn.RelatedEntities;
 
 namespace CluedIn.Provider.RudiDoes
 {
@@ -26,8 +27,9 @@ namespace CluedIn.Provider.RudiDoes
         {
             Container.Install(new InstallComponents());
             var asm = System.Reflection.Assembly.GetExecutingAssembly();
-            Container.Register(Types.FromAssembly(asm).BasedOn<IProvider>().WithServiceFromInterface().If(t => !t.IsAbstract).LifestyleSingleton());
-            Container.Register(Types.FromAssembly(asm).BasedOn<IEntityActionBuilder>().WithServiceFromInterface().If(t => !t.IsAbstract).LifestyleSingleton());
+            //Container.Register(Types.FromAssembly(asm).BasedOn<IProvider>().WithServiceFromInterface().If(t => !t.IsAbstract).LifestyleSingleton());
+            //Container.Register(Types.FromAssembly(asm).BasedOn<IEntityActionBuilder>().WithServiceFromInterface().If(t => !t.IsAbstract).LifestyleSingleton());
+            Container.Register(Types.FromAssembly(asm).BasedOn<IRelatedEntitiesProvider>().WithServiceFromInterface().If(t => !t.IsAbstract).LifestyleSingleton());
 
 
 
