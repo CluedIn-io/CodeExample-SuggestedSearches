@@ -2,7 +2,8 @@
   <PropertyGroup Label="Dependency Versions">
     <_ComponentHost>2.0.0-*</_ComponentHost>
     <_AutoFixture>4.11.0</_AutoFixture>
-    <_CluedIn>3.2.0-*</_CluedIn>
+    <_CluedIn>3.2.3-*</_CluedIn>
+    <_CluedInPrevious>3.2.0-*</_CluedInPrevious>
   </PropertyGroup>
 
   <ItemGroup>
@@ -29,7 +30,7 @@
     -->
     <PackageReference Update="ComponentHost" Version="$(_ComponentHost)" />
     <PackageReference Update="CluedIn.Crawling" Version="$(_CluedIn)" />
-    <PackageReference Update="CluedIn.CrawlerIntegrationTesting" Version="$(_CluedIn)" />
+    <PackageReference Update="CluedIn.CrawlerIntegrationTesting" Version="$(_CluedInPrevious)" />
     <PackageReference Update="CluedIn.Core" Version="$(_CluedIn)" />
     <PackageReference Update="CluedIn.Core.Agent" Version="$(_CluedIn)" />
     <PackageReference Update="CluedIn.Server.Common.WebApi" Version="$(_CluedIn)" />
