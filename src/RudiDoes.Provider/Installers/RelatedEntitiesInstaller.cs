@@ -10,7 +10,9 @@ namespace CluedIn.RudiDoes.RelatedEntities.Installers
     {
         public void Install(IWindsorContainer container, IConfigurationStore store)
         {
-            //container.Register(Component.For<RelatedEntitiesQueries>().Instance(new RelatedEntitiesQueries()));
+            // RelatedEntitiesUtility.CypherFluentQueriesCount() requires RelatedEntitiesQueries to be registered
+            container.Register(Component.For<RelatedEntitiesQueries>().Instance(new RelatedEntitiesQueries()));
+
             container.Register(CluedInTypes.FromCluedInAssembliesWithServiceFromInterface<IRelatedEntitiesProvider>());
         }
     }
