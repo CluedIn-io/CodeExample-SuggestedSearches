@@ -9,6 +9,8 @@ using CluedIn.Crawling.RudiDoes.Infrastructure.Installers;
 using ComponentHost;
 using CluedIn.Core.Server;
 using CluedIn.RelatedEntities;
+using CluedIn.RudiDoes.RelatedEntities.Installers;
+using Microsoft.Extensions.Logging;
 
 namespace CluedIn.Provider.RudiDoes
 {
@@ -31,7 +33,10 @@ namespace CluedIn.Provider.RudiDoes
             Container.Register(Types.FromAssembly(asm).BasedOn<IEntityActionBuilder>().WithServiceFromInterface().If(t => !t.IsAbstract).LifestyleSingleton());
             Container.Register(Types.FromAssembly(asm).BasedOn<IRelatedEntitiesProvider>().WithServiceFromInterface().If(t => !t.IsAbstract).LifestyleSingleton());
 
+            Log.LogInformation("[RudiDoes] Begin CluedIn.Provider.RudiDoes.Start()");
+            Container.Install(new RelatedEntitiesInstaller(Log));
             State = ServiceState.Started;
+            Log.LogInformation("[RudiDoes] End CluedIn.Provider.RudiDoes.Start()");
         }
 
         public override void Stop()
