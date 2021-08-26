@@ -16,31 +16,32 @@ namespace CluedIn.Crawling.RudiDoes.Integration.Test
             this.output = output;
         }
 
-        [Theory]
-        [InlineData("/Provider/Root", 1)]
+        // TODO: disable these until needed
+        //[Theory]
+        //[InlineData("/Provider/Root", 1)]
         //TODO: Add details for the count of entityTypes your test produces
         //[InlineData("SOME_ENTITY_TYPE", 1)]
-        public void CorrectNumberOfEntityTypes(string entityType, int expectedCount)
-        {
-            var foundCount = fixture.ClueStorage.CountOfType(entityType);
+        //public void CorrectNumberOfEntityTypes(string entityType, int expectedCount)
+        //{
+        //    var foundCount = fixture.ClueStorage.CountOfType(entityType);
 
-            //You could use this method to output the logs inside the test case
-            fixture.PrintLogs(output);
+        //    //You could use this method to output the logs inside the test case
+        //    fixture.PrintLogs(output);
 
-            Assert.Equal(expectedCount, foundCount);
-        }
+        //    Assert.Equal(expectedCount, foundCount);
+        //}
 
-        [Fact]
-        public void EntityCodesAreUnique()
-        {
-            var count = fixture.ClueStorage.Clues.Count();
-            var unique = fixture.ClueStorage.Clues.Distinct(new ClueComparer()).Count();
+        //[Fact]
+        //public void EntityCodesAreUnique()
+        //{
+        //    var count = fixture.ClueStorage.Clues.Count();
+        //    var unique = fixture.ClueStorage.Clues.Distinct(new ClueComparer()).Count();
 
-            //You could use this method to output info of all clues
-            fixture.PrintClues(output);
+        //    //You could use this method to output info of all clues
+        //    fixture.PrintClues(output);
 
-            Assert.Equal(unique, count);
-        }
+        //    Assert.Equal(unique, count);
+        //}
 
        
     }

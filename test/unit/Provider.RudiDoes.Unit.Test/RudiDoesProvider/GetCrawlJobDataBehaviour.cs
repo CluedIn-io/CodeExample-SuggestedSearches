@@ -6,6 +6,7 @@ using AutoFixture.Xunit2;
 using CluedIn.Core.Crawling;
 using CluedIn.Core.Providers;
 using CluedIn.Crawling.RudiDoes.Core;
+using CluedIn.RelatedEntities;
 using Xunit;
 
 namespace CluedIn.Provider.RudiDoes.Unit.Test.RudiDoesProvider
@@ -46,6 +47,24 @@ namespace CluedIn.Provider.RudiDoes.Unit.Test.RudiDoesProvider
         {
             Assert.IsType<CluedIn.Crawling.RudiDoes.Core.RudiDoesCrawlJobData>(
                 await Sut.GetCrawlJobData(_context, dictionary, organizationId, userId, providerDefinitionId));
+        }
+
+        [Fact]
+        public void CheckForExpectedIRelatedEntitiesProviders()
+        {
+            var classes = AppDomain.CurrentDomain.GetAssemblies()
+                .SelectMany(assembly => assembly.GetTypes())
+                .Where(type => type.GetInterfaces().Contains(typeof(IRelatedEntitiesProvider)))
+                .Where(type => type.AssemblyQualifiedName.Contains("RudiDoes"));
+
+            int i = 0;
+            foreach (var classItem in classes)
+            {
+                Assert.True("RudiDoesRelatedEntitiesProvider" == classItem.Name);
+                i++;
+            }
+
+            Assert.True(i == 1);
         }
     }
 }
