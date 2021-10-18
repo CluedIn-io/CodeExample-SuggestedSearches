@@ -5,6 +5,7 @@ using Castle.Windsor;
 using CluedIn.Core.Installers;
 using CluedIn.RelatedEntities;
 using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Logging.Abstractions;
 
 namespace CluedIn.RudiDoes.RelatedEntities.Installers
 {
@@ -15,6 +16,11 @@ namespace CluedIn.RudiDoes.RelatedEntities.Installers
         public RelatedEntitiesInstaller(ILogger log)
         {
             Log = log;
+        }
+
+        public RelatedEntitiesInstaller()
+        {
+            Log = NullLogger.Instance;
         }
 
         public void Install(IWindsorContainer container, IConfigurationStore store)
