@@ -1,0 +1,1001 @@
+rudidoes_id,company_name,company_type
+1,Feedfish,Investment Managers
+2,Eayo,Major Chemicals
+3,Centizu,n/a
+4,Voolith,"Computer Software: Programming, Data Processing"
+5,Shufflester,n/a
+6,Wordpedia,Business Services
+7,Fliptune,n/a
+8,Photolist,Radio And Television Broadcasting And Communications Equipment
+9,Twitterwire,Telecommunications Equipment
+10,Tavu,EDP Services
+11,Mynte,n/a
+12,Plajo,Engineering & Construction
+13,Zazio,Medical Specialities
+14,Fivechat,Auto Parts:O.E.M.
+15,Zava,Food Chains
+16,Meembee,Consumer Electronics/Appliances
+17,Voolith,Major Pharmaceuticals
+18,Agivu,Medical/Dental Instruments
+19,Topdrive,n/a
+20,Kwideo,n/a
+21,Twiyo,Real Estate
+22,Jaloo,Professional Services
+23,Dabjam,Major Banks
+24,Mita,Major Pharmaceuticals
+25,Kwilith,Finance: Consumer Services
+26,Tagchat,Commercial Banks
+27,Skipfire,Property-Casualty Insurers
+28,Blogtag,Major Chemicals
+29,Chatterbridge,Major Banks
+30,Fiveclub,n/a
+31,Kare,Newspapers/Magazines
+32,Voonyx,Apparel
+33,Divanoodle,"Computer Software: Programming, Data Processing"
+34,Podcat,Real Estate Investment Trusts
+35,Dabshots,n/a
+36,Kazio,Hospital/Nursing Management
+37,Thoughtworks,n/a
+38,Agimba,n/a
+39,Zoozzy,Advertising
+40,Feedbug,n/a
+41,Npath,n/a
+42,Fliptune,Farming/Seeds/Milling
+43,Gigazoom,Specialty Insurers
+44,Fanoodle,Telecommunications Equipment
+45,Dynabox,Building operators
+46,Kayveo,Life Insurance
+47,Kwimbee,Restaurants
+48,Rhynyx,Steel/Iron Ore
+49,Kazu,Other Transportation
+50,Rhycero,"Computer Software: Programming, Data Processing"
+51,Zoovu,Medical/Dental Instruments
+52,Izio,Major Banks
+53,Quinu,Industrial Machinery/Components
+54,Jamia,n/a
+55,Realcube,Real Estate Investment Trusts
+56,Einti,n/a
+57,Skimia,Marine Transportation
+58,Pixope,Other Consumer Services
+59,Wordtune,n/a
+60,Oba,n/a
+61,Jazzy,Real Estate Investment Trusts
+62,Zoomcast,Natural Gas Distribution
+63,Reallinks,Television Services
+64,Kwinu,Computer Software: Prepackaged Software
+65,Innotype,Major Banks
+66,Flashpoint,n/a
+67,Topicshots,Steel/Iron Ore
+68,Zoombox,Major Pharmaceuticals
+69,Katz,Major Pharmaceuticals
+70,Roomm,n/a
+71,Trunyx,Industrial Machinery/Components
+72,Reallinks,Semiconductors
+73,Yakidoo,Business Services
+74,Zooxo,Oil & Gas Production
+75,Teklist,Semiconductors
+76,Demivee,n/a
+77,Rhyloo,Computer Software: Prepackaged Software
+78,Riffwire,n/a
+79,Meejo,n/a
+80,Twinte,Biotechnology: Electromedical & Electrotherapeutic Apparatus
+81,Katz,n/a
+82,Meetz,Real Estate
+83,Realbridge,Major Banks
+84,Yacero,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+85,Twitterwire,n/a
+86,Thoughtsphere,n/a
+87,Voonix,Business Services
+88,InnoZ,Major Pharmaceuticals
+89,Vinte,Savings Institutions
+90,Wikivu,n/a
+91,Tagchat,Investment Bankers/Brokers/Service
+92,Topicshots,Industrial Machinery/Components
+93,Vinte,Investment Managers
+94,Jetpulse,n/a
+95,Skinder,Savings Institutions
+96,Topicstorm,n/a
+97,Thoughtsphere,Water Supply
+98,Yoveo,Business Services
+99,Babbleblab,Television Services
+100,Leexo,n/a
+101,Izio,Restaurants
+102,Twitternation,n/a
+103,Feedfish,n/a
+104,Twitterworks,Medical Specialities
+105,Jetpulse,Farming/Seeds/Milling
+106,Wordify,Metal Fabrications
+107,Snaptags,Finance: Consumer Services
+108,Skaboo,Business Services
+109,Jabbersphere,Investment Bankers/Brokers/Service
+110,Yozio,Computer Software: Prepackaged Software
+111,Kwilith,Diversified Commercial Services
+112,Brainsphere,Semiconductors
+113,Linktype,Major Pharmaceuticals
+114,Rhycero,n/a
+115,Quatz,n/a
+116,Zoombox,Commercial Banks
+117,Buzzdog,Publishing
+118,Skidoo,Major Banks
+119,Youbridge,n/a
+120,Digitube,Packaged Foods
+121,Rhynoodle,Major Pharmaceuticals
+122,Skalith,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+123,Trilia,Telecommunications Equipment
+124,Quatz,Food Distributors
+125,Realbridge,Savings Institutions
+126,Viva,Farming/Seeds/Milling
+127,Zoombeat,Major Pharmaceuticals
+128,Vinder,Real Estate Investment Trusts
+129,Vinte,n/a
+130,Myworks,n/a
+131,Ntag,Major Banks
+132,Quaxo,Banks
+133,Mynte,Major Pharmaceuticals
+134,Aibox,Industrial Specialties
+135,Fadeo,n/a
+136,Meeveo,n/a
+137,Demizz,Oil & Gas Production
+138,Bubblebox,Other Specialty Stores
+139,Buzzster,Multi-Sector Companies
+140,Chatterbridge,Major Pharmaceuticals
+141,Flipbug,Major Pharmaceuticals
+142,Brainsphere,n/a
+143,Skinder,Telecommunications Equipment
+144,Thoughtsphere,Military/Government/Technical
+145,Edgepulse,Electric Utilities: Central
+146,Lazz,Property-Casualty Insurers
+147,Voolia,n/a
+148,Innojam,Major Chemicals
+149,Miboo,n/a
+150,Ainyx,Farming/Seeds/Milling
+151,Skipstorm,Telecommunications Equipment
+152,Demimbu,Construction/Ag Equipment/Trucks
+153,Yozio,Catalog/Specialty Distribution
+154,Jaxnation,Medical/Dental Instruments
+155,Thoughtstorm,Business Services
+156,Photofeed,n/a
+157,Babblestorm,Major Chemicals
+158,Oyope,Major Chemicals
+159,Voonte,n/a
+160,Einti,n/a
+161,Jabbersphere,Major Banks
+162,Cogilith,Oil & Gas Production
+163,Minyx,Major Chemicals
+164,Quinu,Real Estate Investment Trusts
+165,Jetpulse,Major Banks
+166,Tekfly,Industrial Machinery/Components
+167,Voonyx,Real Estate Investment Trusts
+168,Skinder,Semiconductors
+169,Jazzy,Other Specialty Stores
+170,Jabbercube,n/a
+171,Twitterbridge,Real Estate Investment Trusts
+172,Dynabox,Investment Bankers/Brokers/Service
+173,Oba,Business Services
+174,Avaveo,Industrial Machinery/Components
+175,Leenti,Professional Services
+176,Minyx,Major Pharmaceuticals
+177,Skidoo,Oil Refining/Marketing
+178,Voomm,Electric Utilities: Central
+179,Gigabox,Telecommunications Equipment
+180,Voolia,Commercial Banks
+181,Skinder,Computer peripheral equipment
+182,Centimia,Finance: Consumer Services
+183,Brightdog,Semiconductors
+184,LiveZ,Diversified Commercial Services
+185,Yoveo,Major Banks
+186,Photobug,Military/Government/Technical
+187,Devbug,Major Pharmaceuticals
+188,Linkbuzz,n/a
+189,Eire,n/a
+190,Tanoodle,Major Banks
+191,Blogtag,Natural Gas Distribution
+192,Rhybox,Industrial Machinery/Components
+193,Leexo,n/a
+194,Jayo,Medical Specialities
+195,Twitterlist,Farming/Seeds/Milling
+196,Meembee,Major Chemicals
+197,Skimia,Building Products
+198,Photolist,n/a
+199,Leexo,Electric Utilities: Central
+200,Riffpedia,"Computer Software: Programming, Data Processing"
+201,Feednation,Medical/Dental Instruments
+202,Bluejam,Biotechnology: Biological Products (No Diagnostic Substances)
+203,Dynava,Multi-Sector Companies
+204,Twimbo,Restaurants
+205,Lazz,Broadcasting
+206,Livefish,Multi-Sector Companies
+207,Jabbersphere,Major Chemicals
+208,Dynazzy,Major Banks
+209,Skiptube,Banks
+210,Brightdog,Commercial Banks
+211,Jetpulse,n/a
+212,Wordpedia,n/a
+213,Tagchat,Major Banks
+214,Zoovu,Major Chemicals
+215,Wikivu,Major Chemicals
+216,Tagopia,Precious Metals
+217,Lajo,Advertising
+218,Trunyx,Real Estate Investment Trusts
+219,Gabcube,Major Pharmaceuticals
+220,Zoomdog,Real Estate Investment Trusts
+221,Jaxbean,Electric Utilities: Central
+222,Realcube,Biotechnology: Biological Products (No Diagnostic Substances)
+223,Kayveo,Medical Specialities
+224,Dynabox,Power Generation
+225,Midel,Services-Misc. Amusement & Recreation
+226,Photobug,Electrical Products
+227,Mydeo,Biotechnology: Biological Products (No Diagnostic Substances)
+228,Viva,Major Pharmaceuticals
+229,Jabbercube,n/a
+230,Browsetype,n/a
+231,Twinte,Building Materials
+232,Zoombox,n/a
+233,Mydo,Catalog/Specialty Distribution
+234,Vinte,Industrial Machinery/Components
+235,Youspan,Electric Utilities: Central
+236,Ntags,EDP Services
+237,Innotype,n/a
+238,Fanoodle,n/a
+239,Thoughtstorm,n/a
+240,Dazzlesphere,Consumer Electronics/Appliances
+241,Kwimbee,Clothing/Shoe/Accessory Stores
+242,Aivee,n/a
+243,Wordware,n/a
+244,Tazzy,Major Pharmaceuticals
+245,Cogidoo,Other Specialty Stores
+246,JumpXS,n/a
+247,Zoombox,Major Banks
+248,Eire,Television Services
+249,Wordify,Semiconductors
+250,Thoughtbeat,Major Pharmaceuticals
+251,Meedoo,Business Services
+252,Eimbee,Telecommunications Equipment
+253,Browseblab,n/a
+254,Kare,n/a
+255,Kayveo,Transportation Services
+256,Quatz,n/a
+257,Feedspan,Oil & Gas Production
+258,Youfeed,Savings Institutions
+259,Edgewire,Commercial Banks
+260,Topicstorm,Life Insurance
+261,Rhynyx,Industrial Machinery/Components
+262,Mynte,Major Banks
+263,Cogidoo,n/a
+264,Gigashots,Telecommunications Equipment
+265,Mynte,Major Banks
+266,Katz,Biotechnology: Electromedical & Electrotherapeutic Apparatus
+267,Cogibox,Major Pharmaceuticals
+268,Quimba,Industrial Machinery/Components
+269,Roodel,n/a
+270,Meevee,Air Freight/Delivery Services
+271,Thoughtstorm,n/a
+272,Quaxo,Biotechnology: Commercial Physical & Biological Resarch
+273,Gabtype,Natural Gas Distribution
+274,Divape,Industrial Machinery/Components
+275,Dabtype,Telecommunications Equipment
+276,Wikido,Metal Fabrications
+277,Riffpedia,n/a
+278,Browseblab,Investment Bankers/Brokers/Service
+279,Teklist,n/a
+280,Dynabox,n/a
+281,Topdrive,Real Estate Investment Trusts
+282,Ozu,Industrial Machinery/Components
+283,Twitterworks,Telecommunications Equipment
+284,Wikizz,Major Banks
+285,Tanoodle,n/a
+286,Quinu,Major Pharmaceuticals
+287,Lazz,Property-Casualty Insurers
+288,Photofeed,Electric Utilities: Central
+289,Twitterbeat,Office Equipment/Supplies/Services
+290,Devpulse,Electric Utilities: Central
+291,Minyx,Major Pharmaceuticals
+292,Aivee,n/a
+293,Photofeed,n/a
+294,Feedmix,Precision Instruments
+295,Wikizz,Major Banks
+296,Zoomdog,n/a
+297,Skipfire,n/a
+298,Browsetype,Electric Utilities: Central
+299,Zooveo,Oil & Gas Production
+300,Voomm,Business Services
+301,Gigashots,Catalog/Specialty Distribution
+302,Fivechat,Finance: Consumer Services
+303,Yata,Biotechnology: Biological Products (No Diagnostic Substances)
+304,Lazz,EDP Services
+305,Innojam,Oil & Gas Production
+306,Cogilith,Computer Software: Prepackaged Software
+307,Oodoo,n/a
+308,Nlounge,Oil & Gas Production
+309,Mynte,Computer Communications Equipment
+310,Jaxworks,Radio And Television Broadcasting And Communications Equipment
+311,Bubblebox,Major Pharmaceuticals
+312,Muxo,Oil & Gas Production
+313,Oloo,Major Pharmaceuticals
+314,Oyonder,Savings Institutions
+315,Gabspot,n/a
+316,Jabbersphere,Major Banks
+317,Zoomlounge,Major Banks
+318,Oyondu,Real Estate Investment Trusts
+319,Digitube,n/a
+320,Voonyx,Apparel
+321,Buzzdog,n/a
+322,Rhynyx,EDP Services
+323,Voolia,Investment Bankers/Brokers/Service
+324,Feedspan,Packaged Foods
+325,Mydeo,Engineering & Construction
+326,Photobug,Engineering & Construction
+327,Einti,n/a
+328,Tagtune,Packaged Foods
+329,Realfire,Semiconductors
+330,Oyonder,Department/Specialty Retail Stores
+331,Agivu,Medical Specialities
+332,Kanoodle,"Computer Software: Programming, Data Processing"
+333,Jetwire,Commercial Banks
+334,Eadel,Plastic Products
+335,Quaxo,Property-Casualty Insurers
+336,Shuffledrive,Major Banks
+337,Skyba,n/a
+338,Youspan,Telecommunications Equipment
+339,Kaymbo,Specialty Chemicals
+340,Avaveo,Power Generation
+341,Meetz,n/a
+342,Pixope,Major Banks
+343,Twiyo,Clothing/Shoe/Accessory Stores
+344,Fiveclub,n/a
+345,Tagopia,Major Chemicals
+346,Eayo,Business Services
+347,Kaymbo,Electronic Components
+348,Viva,Agricultural Chemicals
+349,Photobean,n/a
+350,Dynazzy,Trucking Freight/Courier Services
+351,Kwideo,n/a
+352,Abatz,Natural Gas Distribution
+353,Muxo,Major Banks
+354,Fatz,Business Services
+355,Feedbug,n/a
+356,Fivebridge,Television Services
+357,Riffwire,Department/Specialty Retail Stores
+358,Zoozzy,Telecommunications Equipment
+359,Vinder,n/a
+360,Twitterbridge,Military/Government/Technical
+361,Yacero,Automotive Aftermarket
+362,Mudo,Services-Misc. Amusement & Recreation
+363,Devpoint,Medical/Dental Instruments
+364,Devcast,Major Chemicals
+365,Rooxo,Major Banks
+366,Oyondu,Computer Software: Prepackaged Software
+367,Zazio,Biotechnology: Biological Products (No Diagnostic Substances)
+368,Kamba,n/a
+369,Cogibox,n/a
+370,Voolith,Business Services
+371,Centizu,Oil & Gas Production
+372,Dabfeed,Automotive Aftermarket
+373,Browseblab,Trucking Freight/Courier Services
+374,Mita,n/a
+375,Fadeo,Industrial Machinery/Components
+376,Abatz,n/a
+377,Eabox,Real Estate Investment Trusts
+378,Plambee,Shoe Manufacturing
+379,Yodo,Hotels/Resorts
+380,Yadel,Computer Software: Prepackaged Software
+381,Browseblab,Department/Specialty Retail Stores
+382,Tagcat,n/a
+383,Skinte,Restaurants
+384,Wikido,Military/Government/Technical
+385,Buzzster,Building Materials
+386,Digitube,Semiconductors
+387,Devcast,Business Services
+388,Mudo,Telecommunications Equipment
+389,Flashpoint,n/a
+390,Quatz,Clothing/Shoe/Accessory Stores
+391,Youspan,Biotechnology: Electromedical & Electrotherapeutic Apparatus
+392,Dynava,Industrial Specialties
+393,Skinder,Professional Services
+394,Oloo,Major Banks
+395,Photobug,Electric Utilities: Central
+396,Vimbo,Oil & Gas Production
+397,Thoughtsphere,Fluid Controls
+398,Quinu,Real Estate Investment Trusts
+399,Tekfly,n/a
+400,Photolist,Building Products
+401,Yakidoo,n/a
+402,Divanoodle,n/a
+403,Skiptube,Property-Casualty Insurers
+404,Buzzdog,n/a
+405,Realbuzz,Real Estate
+406,Plajo,Newspapers/Magazines
+407,Bluezoom,Restaurants
+408,Youopia,RETAIL: Building Materials
+409,Izio,Computer Software: Prepackaged Software
+410,Feedfire,Meat/Poultry/Fish
+411,Zava,Electric Utilities: Central
+412,Fanoodle,Military/Government/Technical
+413,Divavu,n/a
+414,Yombu,Precious Metals
+415,Gigaclub,Major Pharmaceuticals
+416,Tazzy,Oilfield Services/Equipment
+417,Dabjam,Industrial Machinery/Components
+418,Linkbuzz,Homebuilding
+419,Tanoodle,Marine Transportation
+420,Devpulse,Major Pharmaceuticals
+421,Zoomcast,Biotechnology: Electromedical & Electrotherapeutic Apparatus
+422,Edgeify,Major Pharmaceuticals
+423,Edgetag,Hotels/Resorts
+424,Twitterbeat,Marine Transportation
+425,Janyx,n/a
+426,Gigabox,Beverages (Production/Distribution)
+427,Babbleopia,n/a
+428,Jabbertype,Major Banks
+429,Youspan,n/a
+430,Zoombox,Major Pharmaceuticals
+431,Zoonoodle,Trucking Freight/Courier Services
+432,Talane,n/a
+433,Quire,Forest Products
+434,BlogXS,n/a
+435,Oozz,n/a
+436,Zooveo,n/a
+437,Jaxspan,Major Pharmaceuticals
+438,Zoozzy,Television Services
+439,Browsebug,Business Services
+440,Yakitri,Industrial Machinery/Components
+441,Jatri,n/a
+442,Shuffletag,Auto Parts:O.E.M.
+443,Gabvine,Commercial Banks
+444,Mita,Life Insurance
+445,Mycat,Integrated oil Companies
+446,Demizz,Telecommunications Equipment
+447,Dabfeed,Biotechnology: Electromedical & Electrotherapeutic Apparatus
+448,Devcast,n/a
+449,Eazzy,Clothing/Shoe/Accessory Stores
+450,Skajo,Major Banks
+451,Mydo,Television Services
+452,Buzzbean,Air Freight/Delivery Services
+453,Lazz,n/a
+454,Riffpath,n/a
+455,Skivee,Major Banks
+456,Tagcat,n/a
+457,Eamia,Homebuilding
+458,Edgeclub,n/a
+459,Trupe,Restaurants
+460,Voonix,Trucking Freight/Courier Services
+461,Demimbu,Major Pharmaceuticals
+462,Fadeo,Electric Utilities: Central
+463,Bubblemix,n/a
+464,Brainlounge,n/a
+465,Digitube,Environmental Services
+466,Brightbean,Biotechnology: Biological Products (No Diagnostic Substances)
+467,Youopia,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+468,Abatz,Major Pharmaceuticals
+469,Oyope,Oil & Gas Production
+470,Rhynoodle,Professional Services
+471,Skilith,Homebuilding
+472,Oyoyo,n/a
+473,Talane,Hotels/Resorts
+474,Riffpedia,Industrial Machinery/Components
+475,Yoveo,n/a
+476,Brainverse,n/a
+477,Kanoodle,n/a
+478,Feednation,n/a
+479,Demizz,Electronic Components
+480,Browsedrive,Beverages (Production/Distribution)
+481,Skimia,Real Estate
+482,Kimia,Medical/Dental Instruments
+483,Agimba,Apparel
+484,Tazzy,Marine Transportation
+485,Meedoo,Savings Institutions
+486,Aimbo,Major Pharmaceuticals
+487,Skiptube,Property-Casualty Insurers
+488,Bluejam,Packaged Foods
+489,Blognation,Metal Fabrications
+490,Yozio,Business Services
+491,Skalith,Major Pharmaceuticals
+492,Skipfire,Commercial Banks
+493,Voolia,Investment Managers
+494,Realfire,Office Equipment/Supplies/Services
+495,Tambee,Oil & Gas Production
+496,Quamba,EDP Services
+497,Dynabox,Food Chains
+498,Bubblebox,EDP Services
+499,Eimbee,Clothing/Shoe/Accessory Stores
+500,Reallinks,Business Services
+501,Centizu,n/a
+502,Rhycero,Medical/Nursing Services
+503,Pixonyx,Savings Institutions
+504,Blogspan,Home Furnishings
+505,Wikizz,Medical/Dental Instruments
+506,Buzzster,Business Services
+507,Plambee,Building Materials
+508,Yambee,Medical Specialities
+509,Avaveo,Real Estate Investment Trusts
+510,Zoombox,RETAIL: Building Materials
+511,Skyvu,Property-Casualty Insurers
+512,Pixope,Major Banks
+513,Edgetag,Auto Parts:O.E.M.
+514,Zoovu,Marine Transportation
+515,Muxo,Major Banks
+516,Yombu,Broadcasting
+517,Zooveo,Radio And Television Broadcasting And Communications Equipment
+518,Kaymbo,Hospital/Nursing Management
+519,Rhybox,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+520,Eimbee,Oil & Gas Production
+521,Meembee,n/a
+522,Quatz,Telecommunications Equipment
+523,Skiptube,Real Estate Investment Trusts
+524,Eimbee,Industrial Machinery/Components
+525,Edgepulse,Medical/Dental Instruments
+526,Fliptune,Natural Gas Distribution
+527,Gabcube,Automotive Aftermarket
+528,Oodoo,Business Services
+529,Linklinks,n/a
+530,Pixonyx,Investment Bankers/Brokers/Service
+531,Centidel,n/a
+532,Zoozzy,Homebuilding
+533,Skimia,Biotechnology: Biological Products (No Diagnostic Substances)
+534,Oyondu,EDP Services
+535,Jaxnation,n/a
+536,Skilith,Real Estate Investment Trusts
+537,Meedoo,Major Banks
+538,Wordpedia,Electric Utilities: Central
+539,Twiyo,Containers/Packaging
+540,Digitube,Major Banks
+541,Jabbersphere,Plastic Products
+542,Photojam,Paper
+543,Devcast,Biotechnology: Commercial Physical & Biological Resarch
+544,Cogilith,n/a
+545,Wordify,n/a
+546,Vimbo,n/a
+547,Dynabox,Hospital/Nursing Management
+548,Dablist,n/a
+549,Avaveo,Ordnance And Accessories
+550,Photolist,n/a
+551,Roomm,Integrated oil Companies
+552,Vimbo,Real Estate Investment Trusts
+553,Voolia,Telecommunications Equipment
+554,Twitterbridge,n/a
+555,Midel,Oil & Gas Production
+556,Zoomdog,Electric Utilities: Central
+557,Edgeclub,Industrial Specialties
+558,Skipfire,Finance: Consumer Services
+559,Yakitri,n/a
+560,Plajo,n/a
+561,Photobean,n/a
+562,Fivespan,n/a
+563,Browsedrive,EDP Services
+564,Trudoo,n/a
+565,Leenti,Industrial Machinery/Components
+566,Topicware,Business Services
+567,Meevee,Oilfield Services/Equipment
+568,Edgewire,EDP Services
+569,Wordpedia,Major Chemicals
+570,Topicblab,Home Furnishings
+571,Fatz,n/a
+572,Vinte,n/a
+573,Fivebridge,Computer Software: Prepackaged Software
+574,Skipfire,n/a
+575,Divanoodle,Major Pharmaceuticals
+576,Digitube,Real Estate Investment Trusts
+577,Meetz,Precious Metals
+578,Dabjam,n/a
+579,Divape,Real Estate Investment Trusts
+580,Zoomcast,EDP Services
+581,Mynte,Property-Casualty Insurers
+582,Skippad,n/a
+583,Shufflebeat,Oil & Gas Production
+584,Twitterwire,Telecommunications Equipment
+585,Skibox,n/a
+586,Skyndu,Diversified Commercial Services
+587,Kazio,Other Consumer Services
+588,Demivee,Real Estate Investment Trusts
+589,Npath,n/a
+590,Photofeed,Packaged Foods
+591,Rhyloo,Recreational Products/Toys
+592,Tazz,Home Furnishings
+593,Eadel,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+594,Babbleset,Computer Communications Equipment
+595,Layo,n/a
+596,Realbridge,Oilfield Services/Equipment
+597,Ntags,n/a
+598,Plambee,n/a
+599,Photojam,Telecommunications Equipment
+600,Divanoodle,n/a
+601,Riffpedia,n/a
+602,Jaxbean,Major Pharmaceuticals
+603,Jayo,Commercial Banks
+604,Zoombox,Telecommunications Equipment
+605,Buzzster,Oilfield Services/Equipment
+606,Aimbo,EDP Services
+607,Eamia,n/a
+608,Kwinu,Restaurants
+609,Muxo,Major Chemicals
+610,Yambee,n/a
+611,Zoovu,Real Estate Investment Trusts
+612,Roodel,Major Chemicals
+613,Cogilith,Major Pharmaceuticals
+614,Photobug,Major Banks
+615,Gabspot,Industrial Machinery/Components
+616,Wikibox,Major Banks
+617,Aivee,n/a
+618,Tagcat,n/a
+619,Rhycero,Telecommunications Equipment
+620,Topiczoom,n/a
+621,Twitternation,Business Services
+622,Flipbug,n/a
+623,Camido,n/a
+624,Jabbercube,n/a
+625,Twimm,n/a
+626,Flipstorm,Precious Metals
+627,Voomm,Major Chemicals
+628,Mynte,Business Services
+629,Meejo,Business Services
+630,Edgeblab,n/a
+631,Gevee,Major Banks
+632,Trunyx,Telecommunications Equipment
+633,Mycat,Life Insurance
+634,Muxo,Major Pharmaceuticals
+635,Agimba,Real Estate Investment Trusts
+636,Wordtune,Industrial Machinery/Components
+637,Agivu,Real Estate Investment Trusts
+638,Shuffledrive,Biotechnology: Biological Products (No Diagnostic Substances)
+639,Fatz,Electric Utilities: Central
+640,Babblestorm,n/a
+641,Wordware,Restaurants
+642,Topicware,Other Specialty Stores
+643,Linklinks,n/a
+644,Eimbee,n/a
+645,Devcast,Business Services
+646,Jazzy,Engineering & Construction
+647,Trudoo,Precious Metals
+648,Rhycero,n/a
+649,Abatz,n/a
+650,Zoombeat,Major Pharmaceuticals
+651,Izio,Biotechnology: Laboratory Analytical Instruments
+652,Miboo,n/a
+653,Yakitri,Newspapers/Magazines
+654,Dabshots,Biotechnology: Biological Products (No Diagnostic Substances)
+655,Latz,Restaurants
+656,Dynabox,Other Consumer Services
+657,Fatz,n/a
+658,Cogilith,n/a
+659,Quinu,n/a
+660,Thoughtbeat,n/a
+661,Zooveo,Other Consumer Services
+662,Realcube,Major Banks
+663,Tagfeed,Property-Casualty Insurers
+664,Dablist,Real Estate Investment Trusts
+665,Gabvine,Telecommunications Equipment
+666,Wordpedia,Television Services
+667,Browsebug,Major Chemicals
+668,Voolith,n/a
+669,Quimm,n/a
+670,Edgepulse,n/a
+671,Dablist,Auto Parts:O.E.M.
+672,Dynava,n/a
+673,Geba,Biotechnology: Electromedical & Electrotherapeutic Apparatus
+674,Skiptube,Retail: Computer Software & Peripheral Equipment
+675,Abata,Packaged Foods
+676,JumpXS,Packaged Foods
+677,Meeveo,n/a
+678,Bubbletube,Hospital/Nursing Management
+679,Meezzy,Package Goods/Cosmetics
+680,Trudeo,Real Estate
+681,Edgetag,Electronic Components
+682,Avaveo,Computer Software: Prepackaged Software
+683,Devify,Electronic Components
+684,Dabshots,n/a
+685,Jayo,Consumer Electronics/Appliances
+686,Zooxo,Major Banks
+687,Jaxworks,n/a
+688,Realpoint,Specialty Chemicals
+689,Eayo,Major Pharmaceuticals
+690,Gabtype,n/a
+691,Skiba,Military/Government/Technical
+692,Dabtype,Auto Parts:O.E.M.
+693,Linkbuzz,n/a
+694,Eidel,Major Pharmaceuticals
+695,Wikibox,Industrial Machinery/Components
+696,Quamba,Computer Software: Prepackaged Software
+697,Zoombox,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+698,Muxo,Marine Transportation
+699,Tagchat,n/a
+700,Vinte,Hospital/Nursing Management
+701,Devify,Auto Manufacturing
+702,Mybuzz,Investment Managers
+703,Aivee,Office Equipment/Supplies/Services
+704,Digitube,Specialty Insurers
+705,Skyvu,n/a
+706,Miboo,Investment Bankers/Brokers/Service
+707,Talane,Finance: Consumer Services
+708,Jaxspan,Military/Government/Technical
+709,Photobean,n/a
+710,Tagtune,n/a
+711,Fivebridge,Major Pharmaceuticals
+712,Ntag,Food Distributors
+713,Rooxo,EDP Services
+714,Realblab,Multi-Sector Companies
+715,Roodel,Hotels/Resorts
+716,Skalith,n/a
+717,Skimia,n/a
+718,Jatri,Semiconductors
+719,Blogpad,Life Insurance
+720,Reallinks,Oil & Gas Production
+721,Blogspan,Electric Utilities: Central
+722,Twinder,Beverages (Production/Distribution)
+723,Quamba,Major Pharmaceuticals
+724,Youopia,Biotechnology: Biological Products (No Diagnostic Substances)
+725,Buzzdog,Investment Bankers/Brokers/Service
+726,Quimba,Other Specialty Stores
+727,Npath,n/a
+728,Jabberbean,Major Banks
+729,Edgewire,Package Goods/Cosmetics
+730,Jatri,Property-Casualty Insurers
+731,Livetube,Real Estate Investment Trusts
+732,Myworks,Computer Software: Prepackaged Software
+733,Fadeo,Department/Specialty Retail Stores
+734,Chatterpoint,Steel/Iron Ore
+735,Skyble,Investment Managers
+736,Bubblemix,Real Estate Investment Trusts
+737,Zooxo,Major Banks
+738,Jatri,Electric Utilities: Central
+739,Oyondu,Industrial Specialties
+740,Agimba,Industrial Machinery/Components
+741,Brightdog,Major Banks
+742,Oozz,Investment Bankers/Brokers/Service
+743,Innojam,Major Pharmaceuticals
+744,Zoomdog,Telecommunications Equipment
+745,Eayo,Major Banks
+746,Gabvine,Semiconductors
+747,Ntag,Oil Refining/Marketing
+748,Livetube,Transportation Services
+749,Realcube,Biotechnology: Commercial Physical & Biological Resarch
+750,Shuffledrive,Specialty Insurers
+751,Flashspan,n/a
+752,Yambee,Metal Fabrications
+753,Jayo,"Computer Software: Programming, Data Processing"
+754,LiveZ,Major Banks
+755,Youtags,Savings Institutions
+756,Fadeo,n/a
+757,Oyondu,Paints/Coatings
+758,Tagchat,Major Chemicals
+759,Skilith,Broadcasting
+760,Twiyo,n/a
+761,Edgepulse,Major Pharmaceuticals
+762,Topicblab,Life Insurance
+763,Oyondu,n/a
+764,Mita,Business Services
+765,Yacero,Property-Casualty Insurers
+766,Ainyx,Property-Casualty Insurers
+767,Tazz,Construction/Ag Equipment/Trucks
+768,Brainverse,Business Services
+769,Jabbersphere,n/a
+770,Buzzshare,n/a
+771,Photobean,Integrated oil Companies
+772,Realpoint,Auto Manufacturing
+773,Quimm,Electronic Components
+774,Oyoba,Clothing/Shoe/Accessory Stores
+775,Skimia,Semiconductors
+776,Devify,Semiconductors
+777,Devcast,Life Insurance
+778,Twimbo,n/a
+779,Flashdog,Air Freight/Delivery Services
+780,Pixope,EDP Services
+781,Feedspan,n/a
+782,Trudoo,Containers/Packaging
+783,Gabcube,Business Services
+784,Babbleblab,Real Estate Investment Trusts
+785,Jabbertype,Major Chemicals
+786,Ailane,n/a
+787,Zoonder,Semiconductors
+788,Demimbu,Marine Transportation
+789,Wordpedia,n/a
+790,Thoughtbeat,Forest Products
+791,Dynabox,n/a
+792,Wordtune,Restaurants
+793,Yakijo,Industrial Machinery/Components
+794,Twimbo,n/a
+795,Oyoloo,Industrial Specialties
+796,Shuffletag,n/a
+797,Snaptags,Electronic Components
+798,Realbuzz,Commercial Banks
+799,Muxo,Integrated oil Companies
+800,Eadel,Services-Misc. Amusement & Recreation
+801,Quaxo,Railroads
+802,Bluejam,EDP Services
+803,Bluejam,Forest Products
+804,Mymm,Major Banks
+805,Fivebridge,n/a
+806,Dynabox,Medical/Dental Instruments
+807,Bluezoom,Major Banks
+808,Devify,Home Furnishings
+809,Tagopia,Real Estate Investment Trusts
+810,Youfeed,n/a
+811,Bubbletube,Major Pharmaceuticals
+812,Latz,Property-Casualty Insurers
+813,Voolia,Major Pharmaceuticals
+814,Avamba,n/a
+815,Skynoodle,Homebuilding
+816,Innojam,Major Banks
+817,Roombo,n/a
+818,Kwideo,Consumer Electronics/Appliances
+819,Avavee,Biotechnology: Biological Products (No Diagnostic Substances)
+820,Fadeo,EDP Services
+821,Jabbersphere,Oil Refining/Marketing
+822,Bubblemix,Major Pharmaceuticals
+823,Voolith,Real Estate Investment Trusts
+824,Yamia,Food Distributors
+825,Youspan,n/a
+826,Jabbersphere,Electronic Components
+827,Youopia,EDP Services
+828,Rhyzio,Hospital/Nursing Management
+829,Realcube,Major Pharmaceuticals
+830,Wordware,Business Services
+831,Fivechat,EDP Services
+832,Abata,Property-Casualty Insurers
+833,Yacero,Real Estate Investment Trusts
+834,Jabberstorm,EDP Services
+835,Oyope,Food Distributors
+836,Linktype,Life Insurance
+837,Kamba,Major Chemicals
+838,LiveZ,Industrial Machinery/Components
+839,Photospace,Telecommunications Equipment
+840,Jamia,Major Banks
+841,Yodel,Major Pharmaceuticals
+842,Kaymbo,n/a
+843,Wordtune,n/a
+844,Skilith,Industrial Machinery/Components
+845,Mydo,Oil & Gas Production
+846,Vidoo,Precious Metals
+847,Yakidoo,n/a
+848,Divavu,Biotechnology: Commercial Physical & Biological Resarch
+849,Gigaclub,Biotechnology: Biological Products (No Diagnostic Substances)
+850,Skimia,Computer Software: Prepackaged Software
+851,Topicstorm,Business Services
+852,Voonix,Major Pharmaceuticals
+853,Jabberbean,n/a
+854,Avamba,Commercial Banks
+855,Skivee,"Computer Software: Programming, Data Processing"
+856,Meevee,n/a
+857,Topiczoom,n/a
+858,Skyba,n/a
+859,Youtags,Hotels/Resorts
+860,Zoomcast,n/a
+861,Avamm,Major Banks
+862,Dabvine,Major Banks
+863,Dynabox,Oil & Gas Production
+864,Dazzlesphere,Computer Software: Prepackaged Software
+865,Gabspot,Major Chemicals
+866,Linktype,Marine Transportation
+867,Oozz,Real Estate Investment Trusts
+868,Voonder,Telecommunications Equipment
+869,Skyndu,Computer Software: Prepackaged Software
+870,Bubbletube,n/a
+871,Jabberbean,n/a
+872,Feedfire,n/a
+873,Devify,EDP Services
+874,Feedmix,n/a
+875,Topiczoom,Metal Fabrications
+876,Janyx,Major Banks
+877,Skaboo,Investment Bankers/Brokers/Service
+878,Topicblab,Electrical Products
+879,Mybuzz,Telecommunications Equipment
+880,InnoZ,Hospital/Nursing Management
+881,Fatz,Real Estate
+882,Twitterwire,n/a
+883,Meemm,Telecommunications Equipment
+884,Twitterlist,n/a
+885,Tagopia,n/a
+886,Mydeo,n/a
+887,Flipopia,Real Estate Investment Trusts
+888,Twimm,Computer Software: Prepackaged Software
+889,Pixoboo,Telecommunications Equipment
+890,Midel,Semiconductors
+891,Leenti,n/a
+892,Wordpedia,Restaurants
+893,Devify,n/a
+894,Flipopia,Real Estate
+895,BlogXS,Radio And Television Broadcasting And Communications Equipment
+896,Quire,Farming/Seeds/Milling
+897,Devcast,Advertising
+898,Tazz,Investment Managers
+899,Browsecat,Business Services
+900,Feedfire,Property-Casualty Insurers
+901,Brightbean,Major Pharmaceuticals
+902,Quinu,Restaurants
+903,Meevee,Auto Parts:O.E.M.
+904,Aimbu,Medical/Dental Instruments
+905,Izio,Semiconductors
+906,Yoveo,Auto Parts:O.E.M.
+907,LiveZ,n/a
+908,Devcast,Beverages (Production/Distribution)
+909,Buzzdog,Marine Transportation
+910,Meezzy,n/a
+911,Centimia,n/a
+912,Buzzbean,Telecommunications Equipment
+913,Linklinks,Food Chains
+914,Realbuzz,Homebuilding
+915,Dynazzy,Major Chemicals
+916,Photofeed,Telecommunications Equipment
+917,Riffwire,Transportation Services
+918,Tagopia,Ordnance And Accessories
+919,Browseblab,Commercial Banks
+920,Twimm,Real Estate Investment Trusts
+921,Rhynoodle,Property-Casualty Insurers
+922,Topiclounge,n/a
+923,Lazzy,Major Banks
+924,Kaymbo,Electric Utilities: Central
+925,Abata,n/a
+926,Blogtag,Electric Utilities: Central
+927,Yombu,Commercial Banks
+928,Oozz,Major Banks
+929,Photospace,Publishing
+930,Brightdog,Electric Utilities: Central
+931,Fatz,Telecommunications Equipment
+932,Riffpath,Business Services
+933,Blogtag,Containers/Packaging
+934,Edgeify,Property-Casualty Insurers
+935,Zoovu,Major Pharmaceuticals
+936,Vinder,Business Services
+937,Rhynyx,n/a
+938,Realbridge,Package Goods/Cosmetics
+939,Livefish,n/a
+940,Muxo,Air Freight/Delivery Services
+941,Abata,Semiconductors
+942,Jaxworks,n/a
+943,Centimia,n/a
+944,Flashset,Major Banks
+945,Pixonyx,n/a
+946,Tagchat,Investment Bankers/Brokers/Service
+947,Jaxbean,EDP Services
+948,Plambee,Major Pharmaceuticals
+949,Yodel,Major Pharmaceuticals
+950,Mita,n/a
+951,Feedspan,n/a
+952,Wikizz,Industrial Machinery/Components
+953,Meedoo,Major Banks
+954,Flashpoint,Other Consumer Services
+955,Divanoodle,Real Estate Investment Trusts
+956,Shuffletag,n/a
+957,Topiclounge,Aerospace
+958,Edgeblab,Other Consumer Services
+959,Thoughtbeat,Computer Software: Prepackaged Software
+960,Muxo,Precious Metals
+961,Skiba,Electrical Products
+962,Meejo,Major Pharmaceuticals
+963,Skinder,n/a
+964,Katz,Television Services
+965,Skimia,Commercial Banks
+966,Kazu,Diversified Commercial Services
+967,Meeveo,Farming/Seeds/Milling
+968,Plambee,Oil & Gas Production
+969,Aivee,Movies/Entertainment
+970,Skynoodle,n/a
+971,Photobug,Major Pharmaceuticals
+972,Aibox,Telecommunications Equipment
+973,Oba,Apparel
+974,Youbridge,Business Services
+975,Jabbercube,Homebuilding
+976,Edgeblab,n/a
+977,Devbug,Restaurants
+978,Chatterbridge,Food Chains
+979,Twimm,Medical/Nursing Services
+980,Vinder,Specialty Insurers
+981,Yotz,Apparel
+982,Skinix,Broadcasting
+983,Riffpedia,n/a
+984,LiveZ,n/a
+985,Katz,Semiconductors
+986,Latz,Trucking Freight/Courier Services
+987,Realcube,Finance: Consumer Services
+988,Photobean,Property-Casualty Insurers
+989,Yakijo,n/a
+990,Skidoo,Medical/Dental Instruments
+991,Digitube,Consumer Electronics/Video Chains
+992,Trudoo,n/a
+993,Skilith,Agricultural Chemicals
+994,Kazu,Telecommunications Equipment
+995,Myworks,Transportation Services
+996,Topdrive,n/a
+997,Topicware,Medical/Dental Instruments
+998,Realpoint,EDP Services
+999,Jamia,Major Pharmaceuticals
+1000,Eare,Auto Parts:O.E.M.
